@@ -16,6 +16,6 @@ Write three functions: one to square a number, one to double a number, and one t
 
 Create an array of objects representing cars with properties like make, model, and year. Write a function to sort the array of cars by the year of manufacture in ascending order. Print the sorted array.
 
-## Task-5: Find and Modify
+## Task-5s: Find and Modify
 
 Write a function that searches an array of objects for a specific person by name. If found, modify their age property. Print the updated array.
