@@ -10,8 +10,7 @@ Write a function that determines whether a given year is a leap year.
 
 ## Task-3: Count Vowels
 
-Write a function that counts the number of vowels in a given string.
-Example: Happy New Year
+Write a function that counts the number of vowels in a given string. Example: Happy New Year
 
 ## Task-4: Unique Values
 
