@@ -12,14 +12,14 @@ const people = [
   ];
 
 const printNames = (array)=>{
-    const females = array.filter(person => person.gender === "female")
+    const females = array.filter(person => person.gender !== "female")
     
     const names = females.map(person => person.name)
     return names
 }
 
 
-// console.log(printNames(people));
+console.log(printNames(people));
 
 
 
@@ -94,4 +94,4 @@ const searchAndModifyAge = (persons, name, newAge) =>{
   })
 }
 
-console.log(searchAndModifyAge(persons, "John", 35));
+// console.log(searchAndModifyAge(persons, "John", 35));
